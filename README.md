@@ -1,8 +1,5 @@
 ## Hi there 👋
-
-<!--
-**Audrey175/Audrey175** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Audrey175&theme=react&hide_border=true&border_radius=4.4&mode=weekly)](https://git.io/streak-stats)
+# [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Audrey175&theme=react&hide_border=true&border_radius=4.4&mode=weekly)](https://git.io/streak-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,4 +9,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+![GitHub Snake Dark]([https://github.com/Audrey175/Audrey175/blob/output/github-snake-dark.svg](https://github.com/YOUR\_USERNAME/YOUR\_REPO/blob/output/github-snake-dark.svg) )
+

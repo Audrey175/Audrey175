@@ -60,5 +60,5 @@ Feel free to reach out about data engineering, fintech analytics, or ML projects
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Audrey175/Audrey175/output/github-snake-dark.svg" alt="GitHub Snake Dark" />
+  <img src="https://raw.githubusercontent.com/Audrey175/Audrey175/output/github-snake-light.svg" alt="GitHub Snake Light" />
 </p>
